@@ -84,7 +84,7 @@ Bienvenue chez ArbreLNH, la seule place où vous pouvez voir les équipes de la 
        - Le noeud de droite
    - Implémenter la méthode insertion(self, equipe: EquipeLNH) -> None
      - La méthode doit insérer une équipe dans l'arbre binaire
-     - Si le nombre de points est plus petit que le noeud courant, l'équipe doit être insérée à gauche
+     - Si le nombre de points est plus petit que le Noeud courant, l'équipe doit être insérée à gauche
      - Sinon, il doit être inséré à droite
 
 2) Implémenter la classe EquipeLNH
