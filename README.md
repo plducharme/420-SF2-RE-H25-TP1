@@ -1,5 +1,5 @@
 # Travail Pratique 1 - GéoPiscines et Classement
-Travail Pratique 1 du cours de programmation orientée objet Hiver 2024
+Travail Pratique 1 du cours de programmation orientée objet Hiver 2025
 
 ## Introduction
 Le but du travail pratique est d'utiliser les notions de programmation orientée objet ainsi que l'utilisation de
