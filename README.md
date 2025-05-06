@@ -1,5 +1,5 @@
 # Travail Pratique 1 - GéoPiscines et Classement
-Travail Pratique 1 du cours de programmation orientée objet Hiver 2024
+Travail Pratique 1 du cours de programmation orientée objet Hiver 2025
 
 ## Introduction
 Le but du travail pratique est d'utiliser les notions de programmation orientée objet ainsi que l'utilisation de
@@ -94,7 +94,7 @@ Bienvenue chez ArbreLNH, la seule place où vous pouvez voir les équipes de la 
        - Le nom de l'équipe
      - partie_jouees: int
        - Le nombre de matchs joués
-       - Doit être supérieur à 0
+       - Doit être supérieur ou égal à 0
      - victoires: int
        - Le nombre de victoires
        - Doit être supérieur ou égal à 0
